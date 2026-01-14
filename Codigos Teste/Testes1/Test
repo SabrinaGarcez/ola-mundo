@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <meta charset="UTF-8">
+        <title>A SIMPLE WEB PAGE</title>
+    </head>
+
+<body>
+    <h1>Bem-Vindos A Minha Primeira Pagina</h1>
+
+<p>Este é o inicio de uma nova era!</p>
+
+<p><i>"A melhor maneira de prever o futuro é inventar-lo." - Alan Kay</i></p>
+
+<p><b>Podemos criar o futuro que quisermos</b></p>
+
+</body>
+</html>
